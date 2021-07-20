@@ -1,0 +1,9 @@
+atual,fase,sub,sub_fase,total_previstos,started,data,completed,total_1_vacina,total_2_vacina,updated,date_false,data_conclusao_prevista
+,1,11,"os profissionais de saúde, profissionais das forças armadas, forças de segurança e serviços críticos",300000,TRUE,TRUE,FALSE,79870,59300,2021-01-27,2021-01-31,final de Janeiro de 2021
+,1,12,os profissionais e residentes de lares e unidades de cuidados continuados,250000,TRUE,TRUE,FALSE,156445,8000,2021-01-27,,
+,1,13,as pessoas com mais de 50 anos com algumas patologias,400000,TRUE,TRUE,FALSE,12000,0,,,
+,1,14,"os titulares de órgãos de soberania, altos cargos com funções no Estado, Protecção Civil e PGR e Ministério Público",1000,TRUE,FALSE,FALSE,,,,,
+,1,15,as pessoas com 80 ou mais anos,104078,TRUE,TRUE,FALSE,84488,10882,,,
+,2,21,pessoas com mais de 65 anos sem patologias,1800000,TRUE,,,,,,,
+,2,22,pessoas entre os 50 e os 64 anos com algumas patologias,900000,TRUE,,,,,,,
+TRUE,3,31,restante população,6495525,TRUE,,,,,,,

@@ -1,0 +1,67 @@
+location,art1,art2,art3
+Bhutan,o,no,do
+Argentina,a,na,da
+Austria,a,na,da
+Bahrain,o,no,do
+Belgium,a,na,da
+Bermuda,as,nas,das
+Brazil,o,no,do
+Bulgaria,a,na,da
+Canada,o,no,do
+Chile,o,no,do
+China,a,na,da
+Costa Rica,a,na,da
+Croatia,a,na,da
+Cyprus,o,no,do
+Czechia,a,na,da
+Denmark,a,na,da
+Ecuador,o,no,do
+England,a,na,da
+Estonia,a,na,da
+European Union,a,na,da
+Finland,a,na,da
+France,a,na,da
+Germany,a,na,da
+Gibraltar,,em,de
+Greece,a,na,da
+Hungary,a,na,da
+Iceland,a,na,da
+India,a,na,da
+Indonesia,a,na,da
+Ireland,a,na,da
+Isle of Man,a,na,da
+Israel," ",em,de
+Italy,a,na,da
+Kuwait,o,no,do
+Latvia,a,na,da
+Lithuania,a,na,da
+Luxembourg,o,no,do
+Malta,,em,de
+Mexico,o,no,do
+Myanmar,o,no,do
+Netherlands,os,nos,dos
+Northern Cyprus,o,no,do
+Northern Ireland,a,na,da
+Norway,a,na,da
+Oman,,em,de
+Panama,o,no,do
+Poland,a,na,da
+Portugal,,em,de
+Romania,a,na,da
+Russia,a,na,da
+Saudi Arabia,a,na,da
+Scotland,a,na,da
+Serbia,a,na,da
+Seychelles,as,nas,das
+Singapore,,em,de
+Slovakia,a,na,da
+Slovenia,a,na,da
+Spain,a,na,da
+Sweden,a,na,da
+Switzerland,a,na,da
+Turkey,a,na,da
+United Arab Emirates,os,nos,dos
+United Kingdom,o,no,do
+United States,os,dos,nos
+Wales,,,
+World,o,do,nos
